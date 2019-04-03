@@ -5,3 +5,4 @@
 * redesign to make it maintanable
 * write tests
 * open pull request
+* have fun
