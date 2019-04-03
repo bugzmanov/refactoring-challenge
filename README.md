@@ -5,7 +5,6 @@
 
 * find & fix bugs and issues
 * remove code smells
-* redesign to make it maintanable
+* refactor to make it more maintanable (applying best practices and coding standarts)
 * write tests
-* open pull request
-* have fun
+* open a pull request
