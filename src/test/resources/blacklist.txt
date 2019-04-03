@@ -1,0 +1,4 @@
+(.*\.)?BigAmericanNews\.com
+(.*\.)?ChristWire\.org
+(.*\.)?DailyCurrant\.com
+(.*\.)?DerfMagazine\.com

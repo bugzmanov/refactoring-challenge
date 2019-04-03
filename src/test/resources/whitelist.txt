@@ -1,0 +1,5 @@
+(.*\.)?againstcronycapitalism\.org
+(.*\.)?ageofautism\.com
+(.*\.)?ageofshitlords\.com
+(.*\.)?agoravox\.fr
+google.com
